@@ -1,3 +1,7 @@
+# 4.1.10
+
+- (Fix) Fixed relative path references to certain to dnd5e assets. [@digitalshadowhawk]
+
 # 4.1.9
 
 - (Refinement) Refactored dnd5e theme to rely on local assets rather than 5e system installation. [@Truncated]

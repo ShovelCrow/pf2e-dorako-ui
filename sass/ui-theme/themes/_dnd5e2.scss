@@ -63,7 +63,7 @@
   // --dnd5e-bg: url("../img/dnd5e2/texture-gray1.webp") no-repeat top left,
   //   url("../img/dnd5e2/texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
   --dnd5e-bg: url("../../img/dnd5e_texture-gray1.webp") no-repeat top left,
-    url("../../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
+    url("../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
 }
 
 .dnd5e2 .pills {
@@ -569,7 +569,7 @@
   --color-disabled: var(--color-text-dark-secondary);
 
   // prettier-ignore
-  &.actor.sheet.character section.window-content .crb-style .sheet-body .sheet-content > .tab.active.feats ol.feats-list li.slot .item-name .feat-slot-title, 
+  &.actor.sheet.character section.window-content .crb-style .sheet-body .sheet-content > .tab.active.feats ol.feats-list li.slot .item-name .feat-slot-title,
   &.actor.sheet.character .crb-style .sheet-body .sheet-content .tab.feats li.feat-item .item-name .feat-slot-title {
     --accent-color: var(--dnd5e-color-card);
   }
@@ -584,7 +584,7 @@
     //   position: absolute;
     //   inset: 0;
     //   background: url("../../img/dnd5e_texture-gray1.webp") no-repeat top left,
-    //     url("../../img/dnd5e_texture-gray2.webp") no-repeat bottom right;
+    //     url("../img/dnd5e_texture-gray2.webp") no-repeat bottom right;
     //   border-radius: 6px;
     //   pointer-events: none;
     //   z-index: -1;
